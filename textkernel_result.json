@@ -1,0 +1,319 @@
+{
+  "@attributes": {
+    "lang": "english",
+    "file": "cv.pdf"
+  },
+  "ProfileSummary": {
+    "CurrentJob": "Student Associate",
+    "CurrentEmployer": "INNOVALUE MANAGEMENT PARTNER GmbH",
+    "CurrentEmployerLocation": "Hamburg, GERMANY",
+    "TotalExperienceYears": "1",
+    "HighestEducationLevelCode": "4",
+    "HighestEducationLevelCodeDescription": {},
+    "SummaryAmbitionSection": {},
+    "CVComment": {},
+    "SalaryRangeCode": {},
+    "SalaryRangeDescription": {},
+    "ProfilePicture": {
+      "Base64Content": {},
+      "Filename": {},
+      "ContentType": {}
+    },
+    "ExternalID": {
+      "0": "\n        \n    "
+    }
+  },
+  "Personal": {
+    "FirstName": "Dennis",
+    "MiddleName": {},
+    "LastName": "Pfaff",
+    "NationalityCode": {},
+    "NationalityCodeDescription": {},
+    "DOB": {},
+    "Gender": "male",
+    "MaritalStatus": {},
+    "DriversLicence": {},
+    "HomePhones": {
+      "0": "\n        \n    "
+    },
+    "MobilePhones": {
+      "MobilePhone": "+491775528297"
+    },
+    "Emails": {
+      "Email": "dennis.pfaff@hec.edu"
+    },
+    "Address": {
+      "StreetName": "Kuseler Str.",
+      "StreetNumberBase": "2",
+      "SecUnit": {},
+      "PostalCode": "66869",
+      "City": "Kusel",
+      "RegionCode": "DE-RP",
+      "RegionCodeDescription": "DE Rheinland-Pfalz",
+      "CountryCode": {},
+      "CountryCodeDescription": {}
+    },
+    "SocialMedia": {
+      "0": "\n        \n    "
+    },
+    "PersonalWebsite": {
+      "PersonalURL": {}
+    }
+  },
+  "ExtraInfo": {
+    "TrxmlID": "100392844",
+    "Source": {},
+    "ExtraInfo1": {},
+    "ExtraInfo2": {},
+    "ExtraInfo3": {}
+  },
+  "EducationHistory": {
+    "EducationItem": [
+      {
+        "EducationLevel": "No Degree",
+        "InstituteName": "HEC PARIS Jouy-en-Josas, FRANCE; Grande EcoleMajor: Finance",
+        "Major": "Master of Science in Management",
+        "GPA": "3.78",
+        "StartDate": "2011-09-01",
+        "EndDate": "present"
+      },
+      {
+        "EducationLevel": "Bachelor",
+        "InstituteName": "UNIVERSITY OF MANNHEIM Mannheim, GERMANY",
+        "Major": "Bachelor of Science, Economics",
+        "GPA": {},
+        "StartDate": "2007-08-01",
+        "EndDate": "2011-02-28"
+      },
+      {
+        "EducationLevel": "No Degree",
+        "InstituteName": "UNIVERSITY OF MIAMI Miami, USA",
+        "Major": "Semester abroad (exchange programme)",
+        "GPA": "3.925",
+        "StartDate": "2009-08-01",
+        "EndDate": "2010-02-28"
+      },
+      {
+        "EducationLevel": "Master",
+        "InstituteName": "UNIVERSITY OF TRIER Trier, GERMANY",
+        "Major": "Master Artium, Political Science, Economics and Business",
+        "GPA": {},
+        "StartDate": "2006-10-01",
+        "EndDate": "2007-08-31"
+      },
+      {
+        "EducationLevel": "Advanced Level",
+        "InstituteName": "GYMNASIUM KUSEL Kusel, GERMANY",
+        "Major": "Abitur",
+        "GPA": {},
+        "StartDate": {},
+        "EndDate": "2006-03-31"
+      }
+    ]
+  },
+  "RecentEmploymentHistory": {
+    "RecentEmploymentItem": {
+      "EmployerName": "INNOVALUE MANAGEMENT PARTNER GmbH",
+      "JobTitle": "Student Associate",
+      "JobCode": "Auditor (Auditors Office)",
+      "JobGroup": "Accountants",
+      "JobClass": "Insurance and Finance",
+      "StartDate": "2012-06-01",
+      "EndDate": "2012-08-31"
+    }
+  },
+  "EmploymentHistory": {
+    "EmploymentItem": [
+      {
+        "JobTitle": "Student Associate",
+        "ExperienceONET": "Auditors",
+        "EmployerName": "INNOVALUE MANAGEMENT PARTNER GmbH",
+        "EmployerCity": "Hamburg",
+        "EmployerRegion": {},
+        "EmployerCountry": "GERMANY",
+        "YearsExperience": "Less than 1 Year",
+        "JobDescription": "sector Payment Institutions\n*                                               Analysed the Austrian and CEE payment and retail markets as part\n                                                of a private equity transaction, focusing on business development\n                                                opportunities for credit card issuing and acquiring\n*                                               Built financial models and supported the creation of a corporate\n                                                valuation model, taking into account different market scenarios\n*                                               Identified potential acquisition targets in mobile payment",
+        "StartDate": "2012-06-01",
+        "EndDate": "2012-08-31",
+        "JobCode": "Auditor (Auditors Office)",
+        "JobGroup": "Accountants",
+        "JobClass": "Insurance and Finance"
+      },
+      {
+        "JobTitle": "Intern, Investment Banking, Sales",
+        "ExperienceONET": {},
+        "EmployerName": "BNP PARIBAS S.A.",
+        "EmployerCity": "Frankfurt",
+        "EmployerRegion": {},
+        "EmployerCountry": "GERMANY",
+        "YearsExperience": "1 to 2 Years",
+        "JobDescription": "*                                               Contributed to the retail derivatives emission process by analysing\n                                                daily turnovers in different product and underlying categories\n*                                               Analysed the market share development of competitors and\n                                                identified trends in the German retail derivatives market\n*                                               Advised customers over the phone and supported the\n                                                communication process between the sales and trading departments",
+        "StartDate": "2011-02-01",
+        "EndDate": "2011-08-31",
+        "JobCode": {},
+        "JobGroup": {
+          "@attributes": {
+            "id": "0"
+          }
+        },
+        "JobClass": {
+          "@attributes": {
+            "id": "0"
+          }
+        }
+      },
+      {
+        "JobTitle": "Intern",
+        "ExperienceONET": {},
+        "EmployerName": "SAARLB",
+        "EmployerCity": "Saarbr\u00fccken",
+        "EmployerRegion": {},
+        "EmployerCountry": "GERMANY",
+        "YearsExperience": "Less than 1 Year",
+        "JobDescription": "*   Analysed and optimised clients' asset structures\n*   Prepared and participated in clients' consulting interviews",
+        "StartDate": "2010-01-01",
+        "EndDate": "2010-03-31",
+        "JobCode": {},
+        "JobGroup": {
+          "@attributes": {
+            "id": "0"
+          }
+        },
+        "JobClass": {
+          "@attributes": {
+            "id": "0"
+          }
+        }
+      },
+      {
+        "JobTitle": "Intern, Treasury Department",
+        "ExperienceONET": {},
+        "EmployerName": "AAREAL BANK AG",
+        "EmployerCity": "Dublin",
+        "EmployerRegion": {},
+        "EmployerCountry": "IRELAND",
+        "YearsExperience": "Less than 1 Year",
+        "JobDescription": "*   Confirmed the accuracy of money market transactions\n*   Supported the settlement department",
+        "StartDate": "2009-06-01",
+        "EndDate": "2009-08-31",
+        "JobCode": {},
+        "JobGroup": {
+          "@attributes": {
+            "id": "0"
+          }
+        },
+        "JobClass": {
+          "@attributes": {
+            "id": "0"
+          }
+        }
+      }
+    ]
+  },
+  "Skills": {
+    "LanguageSkills": {
+      "LanguageSkill": [
+        {
+          "LanguageSkillCode": "DE",
+          "LanguageSkillCodeDescription": "German",
+          "LanguageLevelCode": "6",
+          "LanguageLevelCodeDescription": {},
+          "LanguageSkillFirstUsed": {},
+          "LanguageSkillLastUsed": {}
+        },
+        {
+          "LanguageSkillCode": "EN",
+          "LanguageSkillCodeDescription": "English",
+          "LanguageLevelCode": "5",
+          "LanguageLevelCodeDescription": {},
+          "LanguageSkillFirstUsed": {},
+          "LanguageSkillLastUsed": {}
+        },
+        {
+          "LanguageSkillCode": "FR",
+          "LanguageSkillCodeDescription": "French",
+          "LanguageLevelCode": "2",
+          "LanguageLevelCodeDescription": {},
+          "LanguageSkillFirstUsed": {},
+          "LanguageSkillLastUsed": {}
+        }
+      ]
+    },
+    "ComputerSkills": {
+      "ComputerSkill": [
+        {
+          "ComputerSkillName": "Office",
+          "ComputerSkillDuration": {},
+          "ComputerSkillFirstUsed": {},
+          "ComputerSkillLastUsed": {},
+          "ComputerSkillDurationCode": {}
+        },
+        {
+          "ComputerSkillName": "Bloomberg",
+          "ComputerSkillDuration": {},
+          "ComputerSkillFirstUsed": {},
+          "ComputerSkillLastUsed": {},
+          "ComputerSkillDurationCode": {}
+        },
+        {
+          "ComputerSkillName": "Reuters",
+          "ComputerSkillDuration": {},
+          "ComputerSkillFirstUsed": {},
+          "ComputerSkillLastUsed": {},
+          "ComputerSkillDurationCode": {}
+        }
+      ]
+    },
+    "SoftSkills": {
+      "SoftSkill": {
+        "SoftSkillName": {},
+        "SoftSkillFirstUsed": {},
+        "SoftSkillLastUsed": {}
+      }
+    },
+    "OtherSkills": {
+      "OtherSkill": {
+        "OtherSkillName": {},
+        "OtherSkillFirstUsed": {},
+        "OtherSkillLastUsed": {}
+      }
+    },
+    "Hobbies": {
+      "Hobby": [
+        "Tennis",
+        "Martial Arts",
+        "Fitness"
+      ]
+    },
+    "References": {
+      "Reference": {}
+    }
+  },
+  "FullTextKeywords": {
+    "Keyword": [
+      "\"Management Consulting\"",
+      "\"retail\"",
+      "\"private equity\"",
+      "\"business development\"",
+      "\"account\"",
+      "\"mobile\"",
+      "\"Investment\"",
+      "\"consulting\"",
+      "\"Treasury\"",
+      "\"Associate\"",
+      "\"payment\"",
+      "\"CEE\"",
+      "\"S.A\"",
+      "\"Austrian\""
+    ]
+  },
+  "DocumentText": "\nDennis Pfaff\n                                   Kuseler Str. 2 * 66869 Kusel * Germany\n                         mobile: (+49)177-5528297 * e-mail: dennis.pfaff@hec.edu\nEducation\n09\/2011 - present   HEC PARIS                                                           Jouy-en-Josas, FRANCE\n                    * Master of Science in Management - Grande EcoleMajor: Finance (ranked 1stworldwide by the Financial Times)\n\n                    *                                               Honours: Liste d'Excellence 2011\/12 (Dean's list of HEC Paris)\n                    *                                               GPA: 3.78 \/ 4.0 (top 5%)\n08\/2007 - 02\/2011   UNIVERSITY OF MANNHEIM                                              Mannheim, GERMANY\n                      Bachelor of Science, Economics\n                    *                                               Minor subject: Business Administration (Grade: 1.3)\n                    *                                               Grade: 2.2\n08\/2009 - 02\/2010   UNIVERSITY OF MIAMI                                                            Miami, USA\n                    *                                               Semester abroad (exchange programme)\n                    *                                               GPA: 3.925 \/ 4.0\n10\/2006 - 08\/2007   UNIVERSITY OF TRIER                                                      Trier, GERMANY\n                      Master Artium, Political Science, Economics and Business\n03\/2006             GYMNASIUM KUSEL                                                          Kusel, GERMANY\n                      Abitur (Grade: 2.3)\nProfessional Experience\n06\/2012 - 08\/2012   INNOVALUE MANAGEMENT PARTNER GmbH                                    Hamburg, GERMANY\n                      Student Associate, Management Consulting, M&A Advisory in the\n                      sector Payment Institutions\n                    *                                               Analysed the Austrian and CEE payment and retail markets as part\n                                                                    of a private equity transaction, focusing on business development\n                                                                    opportunities for credit card issuing and acquiring\n                    *                                               Built financial models and supported the creation of a corporate\n                                                                    valuation model, taking into account different market scenarios\n                    *                                               Identified potential acquisition targets in mobile payment\n02\/2011 - 08\/2011   BNP PARIBAS S.A.                                                     Frankfurt, GERMANY\n                      Intern, Investment Banking, Sales (Exchange Traded Solutions)\n                    *                                               Contributed to the retail derivatives emission process by analysing\n                                                                    daily turnovers in different product and underlying categories\n                    *                                               Analysed the market share development of competitors and\n                                                                    identified trends in the German retail derivatives market\n                    *                                               Advised customers over the phone and supported the\n                                                                    communication process between the sales and trading departments\n01\/2010 - 03\/2010   SAARLB                                                             Saarbr\u00fccken, GERMANY\n                      Intern, Private Banking Department\n                     *   Analysed and optimised clients' asset structures\n                     *   Prepared and participated in clients' consulting interviews\n06\/2009 - 08\/2009   AAREAL BANK AG DUBLIN BRANCH                                             Dublin, IRELAND\n                      Intern, Treasury Department\n                     *   Confirmed the accuracy of money market transactions\n                     *   Supported the settlement department\nLanguage, Computer Skills and Further Education\n                    Languages\n                     *   German (native), English (fluent), French (basic)\n                    Computer Skills\n                     *   MS Office (very good)\n                     *   Bloomberg, Reuters (basic)\n                     Certificates of the \"Deutsche B\u00f6rse Group\"                          Frankfurt, GERMANY\n12\/2008              *   Exchange Products and Clearing and Settlement\n04\/2009              *   Eurex Clearer Test (clearing and settlement of Eurex derivatives)\nExtra-Curricular Activities and Interests\n11\/2011 - present   Vice chairman of the youth organisation of a political party in the      Kusel, GERMANY\n                    administrative district of Kusel\n04\/2006 - 08\/2006   International Kung Fu Training Centre                                   Zhengzhou, CHINA\n                     *   Trained Shaolin Kung Fu and studied Chinese culture\n                     *   Team leader of the foreign students team\n                    Sports\n                     *   Tennis (playing and coaching), Martial Arts, Fitness\n",
+  "DocumentHtml": "\n<div><div style=\"position: relative;\"><tk_metadata name=\"last_modified\"> <\/tk_metadata><p> <\/p>\n<div style=\"position:absolute;top:61px;left:347px;font-family:&apos;Times New Roman&apos;;font-size:14pt;white-space:nowrap;\"><b><span class=\"trxml-140\"><span class=\"trxml-3\">Dennis Pfaff<\/span><\/span><\/b><span class=\"trxml-3\">\n<\/span><\/div><span class=\"trxml-3\">\n\n<\/span><div style=\"position:absolute;top:81px;left:276px;font-family:&apos;Times New Roman&apos;;font-size:11pt;white-space:nowrap;\"><span class=\"trxml-3\"><span class=\"trxml-125\">Kuseler Str. 2 \u2022 66869 Kusel \u2022 Germany<\/span>\n<\/span><\/div><span class=\"trxml-3\">\n\n<\/span><div style=\"position:absolute;top:98px;left:220px;font-family:&apos;Times New Roman&apos;;font-size:11pt;white-space:nowrap;\"><span class=\"trxml-3\">mobile: (+<span class=\"trxml-135\">49)177-5528297<\/span> \u2022 e-mail: <span class=\"trxml-241\">dennis.pfaff@hec.edu<\/span><\/span><\/div>\n\n\n<div style=\"position:absolute;top:117px;left:71px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-8\">Education<\/span><\/b><span class=\"trxml-8\">\n<\/span><\/div><span class=\"trxml-8\">\n\n<\/span><div style=\"position:absolute;top:134px;left:71px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-8\"><span class=\"trxml-87\"><span class=\"trxml-57\">09\/2011 - present<\/span>\n<\/span><\/span><\/div><span class=\"trxml-8\"><span class=\"trxml-87\">\n\n<\/span><\/span><div style=\"position:absolute;top:210px;left:71px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-64\"><span class=\"trxml-8\"><span class=\"trxml-87\"><span class=\"trxml-88\">08\/2007 - 02\/2011<\/span><\/span><\/span><\/span><\/div><span class=\"trxml-8\"><span class=\"trxml-87\">\n\n\n<\/span><\/span><div style=\"position:absolute;top:134px;left:192px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-58\"><span class=\"trxml-8\"><span class=\"trxml-87\">HEC PARIS<\/span><\/span><\/span><\/b><span class=\"trxml-8\"><span class=\"trxml-87\">\n<\/span><\/span><\/div><span class=\"trxml-8\"><span class=\"trxml-87\">\n\n<\/span><\/span><div style=\"position:absolute;top:150px;left:195px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><i><span class=\"trxml-8\"><span class=\"trxml-87\"><span class=\"trxml-60\">Master of Science in Management<\/span> \u2013 <span class=\"trxml-62\">Grande Ecole<\/span><\/span><\/span><\/i><\/b><span class=\"trxml-62\"><span class=\"trxml-8\"><span class=\"trxml-87\">\n<\/span><\/span><\/span><\/div><span class=\"trxml-62\"><span class=\"trxml-8\"><span class=\"trxml-87\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:164px;left:192px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-62\"><span class=\"trxml-8\"><span class=\"trxml-87\">\u25cf \n<\/span><\/span><\/span><\/div><span class=\"trxml-62\"><span class=\"trxml-8\"><span class=\"trxml-87\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:164px;left:216px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-8\"><span class=\"trxml-87\"><span class=\"trxml-62\">Major: Finance<\/span> (ranked 1\n<\/span><\/span><\/div><span class=\"trxml-8\"><span class=\"trxml-87\">\n\n<\/span><\/span><div style=\"position:absolute;top:162px;left:352px;font-family:&apos;Times New Roman&apos;;font-size:7pt;white-space:nowrap;\"><span class=\"trxml-8\"><span class=\"trxml-87\">st\n<\/span><\/span><\/div><span class=\"trxml-8\"><span class=\"trxml-87\">\n\n<\/span><\/span><div style=\"position:absolute;top:164px;left:361px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-8\"><span class=\"trxml-87\">worldwide by the Financial Times)\n<\/span><\/span><\/div><span class=\"trxml-8\"><span class=\"trxml-87\">\n\n<\/span><\/span><div style=\"position:absolute;top:179px;left:192px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-8\"><span class=\"trxml-87\">\u25cf \n<\/span><\/span><\/div><span class=\"trxml-8\"><span class=\"trxml-87\">\n\n<\/span><\/span><div style=\"position:absolute;top:180px;left:216px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-8\"><span class=\"trxml-87\">Honours: Liste d\u2019Excellence 2011\/12 (Dean\u2019s list of HEC Paris)\n<\/span><\/span><\/div><span class=\"trxml-8\"><span class=\"trxml-87\">\n\n<\/span><\/span><div style=\"position:absolute;top:194px;left:192px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-8\"><span class=\"trxml-87\">\u25cf \n<\/span><\/span><\/div><span class=\"trxml-8\"><span class=\"trxml-87\">\n\n<\/span><\/span><div style=\"position:absolute;top:195px;left:216px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-8\"><span class=\"trxml-87\"><span class=\"trxml-46\">GPA: <span class=\"trxml-141\">3.78 \/ 4.0<\/span><\/span> (top 5<\/span>%)\n<\/span><\/div><span class=\"trxml-8\">\n\n<\/span><div style=\"position:absolute;top:211px;left:192px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-65\"><span class=\"trxml-8\"><span class=\"trxml-88\">UNIVERSITY OF MANNHEIM<\/span><\/span><\/span><\/b><span class=\"trxml-8\"><span class=\"trxml-88\">\n<\/span><\/span><\/div><span class=\"trxml-8\"><span class=\"trxml-88\">\n\n<\/span><\/span><div style=\"position:absolute;top:226px;left:195px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><i><span class=\"trxml-66\"><span class=\"trxml-8\"><span class=\"trxml-88\">Bachelor of Science, Economics<\/span><\/span><\/span><\/i><\/b><span class=\"trxml-8\"><span class=\"trxml-88\">\n<\/span><\/span><\/div><span class=\"trxml-8\"><span class=\"trxml-88\">\n\n<\/span><\/span><div style=\"position:absolute;top:240px;left:192px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-8\"><span class=\"trxml-88\">\u25cf \n<\/span><\/span><\/div><span class=\"trxml-8\"><span class=\"trxml-88\">\n\n<\/span><\/span><div style=\"position:absolute;top:241px;left:216px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-8\"><span class=\"trxml-88\">Minor subject: <span class=\"trxml-68\">Business Administration<\/span> (Grade: 1.3)\n<\/span><\/span><\/div><span class=\"trxml-8\"><span class=\"trxml-88\">\n\n<\/span><\/span><div style=\"position:absolute;top:256px;left:192px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-8\"><span class=\"trxml-88\">\u25cf \n<\/span><\/span><\/div><span class=\"trxml-8\"><span class=\"trxml-88\">\n\n<\/span><\/span><div style=\"position:absolute;top:256px;left:216px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-8\"><span class=\"trxml-88\">Grade: 2.2\n<\/span><\/span><\/div><span class=\"trxml-8\"><span class=\"trxml-88\">\n\n<\/span><\/span><div style=\"position:absolute;top:134px;left:582px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-8\"><span class=\"trxml-88\"><span class=\"trxml-58\"><span class=\"trxml-87\">Jouy-en-Josas, FRANCE<\/span><\/span>\n<\/span><\/span><\/div><span class=\"trxml-8\"><span class=\"trxml-88\">\n\n<\/span><\/span><div style=\"position:absolute;top:210px;left:584px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-8\"><span class=\"trxml-65\"><span class=\"trxml-88\">Mannheim, GERMANY<\/span><\/span>\n<\/span><\/div><span class=\"trxml-8\">\n\n<\/span><div style=\"position:absolute;top:274px;left:71px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-8\"><span class=\"trxml-89\"><span class=\"trxml-70\">08\/2009 \u2013 02\/2010<\/span>  \n<\/span><\/span><\/div><span class=\"trxml-8\"><span class=\"trxml-89\">\n\n<\/span><\/span><div style=\"position:absolute;top:274px;left:192px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-71\"><span class=\"trxml-8\"><span class=\"trxml-89\">UNIVERSITY OF MIAMI<\/span><\/span><\/span><\/b><span class=\"trxml-71\"><span class=\"trxml-8\"><span class=\"trxml-89\">\n<\/span><\/span><\/span><\/div><span class=\"trxml-71\"><span class=\"trxml-8\"><span class=\"trxml-89\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:288px;left:192px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-71\"><span class=\"trxml-8\"><span class=\"trxml-89\">\u25cf \n<\/span><\/span><\/span><\/div><span class=\"trxml-71\"><span class=\"trxml-8\"><span class=\"trxml-89\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:289px;left:216px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-71\"><span class=\"trxml-8\"><span class=\"trxml-89\"><span class=\"trxml-73\">Semester abroad (exchange programme<\/span>)\n<\/span><\/span><\/span><\/div><span class=\"trxml-71\"><span class=\"trxml-8\"><span class=\"trxml-89\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:304px;left:192px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-71\"><span class=\"trxml-8\"><span class=\"trxml-89\">\u25cf \n<\/span><\/span><\/span><\/div><span class=\"trxml-71\"><span class=\"trxml-8\"><span class=\"trxml-89\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:304px;left:216px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-71\"><span class=\"trxml-8\"><span class=\"trxml-89\">GPA: <span class=\"trxml-142\">3.925 \/ 4.0<\/span>\n<\/span><\/span><\/span><\/div><span class=\"trxml-71\"><span class=\"trxml-8\"><span class=\"trxml-89\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:274px;left:648px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-8\"><span class=\"trxml-71\"><span class=\"trxml-89\">Miami, USA<\/span><\/span>\n<\/span><\/div><span class=\"trxml-8\">\n\n<\/span><div style=\"position:absolute;top:320px;left:71px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-8\"><span class=\"trxml-90\"><span class=\"trxml-75\">10\/2006 \u2013 08\/2007<\/span>  \n<\/span><\/span><\/div><span class=\"trxml-8\"><span class=\"trxml-90\">\n\n<\/span><\/span><div style=\"position:absolute;top:321px;left:192px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-76\"><span class=\"trxml-8\"><span class=\"trxml-90\">UNIVERSITY OF TRIER<\/span><\/span><\/span><\/b><span class=\"trxml-76\"><span class=\"trxml-8\"><span class=\"trxml-90\">\n<\/span><\/span><\/span><\/div><span class=\"trxml-76\"><span class=\"trxml-8\"><span class=\"trxml-90\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:336px;left:195px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><i><span class=\"trxml-76\"><span class=\"trxml-77\"><span class=\"trxml-8\"><span class=\"trxml-90\">Master Artium, Political Science, Economics and Business<\/span><\/span><\/span><\/span><\/i><\/b><span class=\"trxml-76\"><span class=\"trxml-8\"><span class=\"trxml-90\">\n<\/span><\/span><\/span><\/div><span class=\"trxml-76\"><span class=\"trxml-8\"><span class=\"trxml-90\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:320px;left:616px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-8\"><span class=\"trxml-76\"><span class=\"trxml-90\">Trier, GERMANY<\/span><\/span>\n<\/span><\/div><span class=\"trxml-8\">\n\n<\/span><div style=\"position:absolute;top:352px;left:71px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-8\"><span class=\"trxml-91\"><span class=\"trxml-78\">03\/2006<\/span>           \n<\/span><\/span><\/div><span class=\"trxml-8\"><span class=\"trxml-91\">\n\n<\/span><\/span><div style=\"position:absolute;top:352px;left:192px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-79\"><span class=\"trxml-8\"><span class=\"trxml-91\">GYMNASIUM KUSEL<\/span><\/span><\/span><\/b><span class=\"trxml-79\"><span class=\"trxml-8\"><span class=\"trxml-91\">\n<\/span><\/span><\/span><\/div><span class=\"trxml-79\"><span class=\"trxml-8\"><span class=\"trxml-91\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:368px;left:195px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><i><span class=\"trxml-79\"><span class=\"trxml-8\"><span class=\"trxml-91\"><span class=\"trxml-80\">Abitur<\/span> (<span class=\"trxml-47\">Grade: 2.3<\/span>)<\/span><\/span><\/span><\/i><\/b><span class=\"trxml-79\"><span class=\"trxml-8\"><span class=\"trxml-91\">\n<\/span><\/span><\/span><\/div><span class=\"trxml-79\"><span class=\"trxml-8\"><span class=\"trxml-91\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:352px;left:611px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-79\"><span class=\"trxml-8\"><span class=\"trxml-91\">Kusel, GERMANY<\/span><\/span><\/span>\n<\/div>\n\n<div style=\"position:absolute;top:385px;left:71px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-9\">Professional Experience<\/span><\/b><span class=\"trxml-9\">\n<\/span><\/div><span class=\"trxml-9\">\n\n<\/span><div style=\"position:absolute;top:402px;left:71px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-82\"><span class=\"trxml-9\"><span class=\"trxml-143\">06\/2012 \u2013 08\/2012<\/span>  \n<\/span><\/span><\/div><span class=\"trxml-82\"><span class=\"trxml-9\">\n\n<\/span><\/span><div style=\"position:absolute;top:402px;left:192px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-26\"><span class=\"trxml-48\"><span class=\"trxml-82\"><span class=\"trxml-9\">INNOVALUE MANAGEMENT PARTNER GmbH<\/span><\/span><\/span><\/span><\/b><span class=\"trxml-82\"><span class=\"trxml-9\">\n<\/span><\/span><\/div><span class=\"trxml-82\"><span class=\"trxml-9\">\n\n<\/span><\/span><div style=\"position:absolute;top:417px;left:195px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><i><span class=\"trxml-82\"><span class=\"trxml-9\"><span class=\"trxml-13\">Student Associate<\/span>, Management Consulting, M&amp;A Advisory in the<\/span><\/span><\/i><\/b><span class=\"trxml-82\"><span class=\"trxml-9\">\n<\/span><\/span><\/div><span class=\"trxml-82\"><span class=\"trxml-9\">\n\n<\/span><\/span><div style=\"position:absolute;top:433px;left:195px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><i><span class=\"trxml-147\"><span class=\"trxml-82\"><span class=\"trxml-9\">sector Payment Institutions<\/span><\/span><\/span><\/i><\/b><span class=\"trxml-147\"><span class=\"trxml-82\"><span class=\"trxml-9\">\n<\/span><\/span><\/span><\/div><span class=\"trxml-147\"><span class=\"trxml-82\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:447px;left:192px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-147\"><span class=\"trxml-82\"><span class=\"trxml-9\">\u25cf \n<\/span><\/span><\/span><\/div><span class=\"trxml-147\"><span class=\"trxml-82\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:448px;left:216px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-147\"><span class=\"trxml-82\"><span class=\"trxml-9\">Analysed the Austrian and CEE payment and retail markets as part\n<\/span><\/span><\/span><\/div><span class=\"trxml-147\"><span class=\"trxml-82\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:463px;left:216px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-147\"><span class=\"trxml-82\"><span class=\"trxml-9\">of a private equity transaction, focusing on business development\n<\/span><\/span><\/span><\/div><span class=\"trxml-147\"><span class=\"trxml-82\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:478px;left:216px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-147\"><span class=\"trxml-82\"><span class=\"trxml-9\">opportunities for credit card issuing and acquiring\n<\/span><\/span><\/span><\/div><span class=\"trxml-147\"><span class=\"trxml-82\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:493px;left:192px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-147\"><span class=\"trxml-82\"><span class=\"trxml-9\">\u25cf \n<\/span><\/span><\/span><\/div><span class=\"trxml-147\"><span class=\"trxml-82\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:494px;left:216px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-147\"><span class=\"trxml-82\"><span class=\"trxml-9\">Built financial models and supported the creation of a corporate\n<\/span><\/span><\/span><\/div><span class=\"trxml-147\"><span class=\"trxml-82\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:509px;left:216px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-147\"><span class=\"trxml-82\"><span class=\"trxml-9\">valuation model, taking into account different market scenarios\n<\/span><\/span><\/span><\/div><span class=\"trxml-147\"><span class=\"trxml-82\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:524px;left:192px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-147\"><span class=\"trxml-82\"><span class=\"trxml-9\">\u25cf \n<\/span><\/span><\/span><\/div><span class=\"trxml-147\"><span class=\"trxml-82\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:524px;left:216px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-82\"><span class=\"trxml-9\"><span class=\"trxml-147\">Identified potential acquisition targets in mobile payment<\/span>\n<\/span><\/span><\/div><span class=\"trxml-82\"><span class=\"trxml-9\">\n\n<\/span><\/span><div style=\"position:absolute;top:402px;left:592px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-9\"><span class=\"trxml-26\"><span class=\"trxml-49\"><span class=\"trxml-82\">Hamburg, GERMANY<\/span><\/span><\/span>\n<\/span><\/div><span class=\"trxml-9\">\n\n<\/span><div style=\"position:absolute;top:540px;left:71px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-83\"><span class=\"trxml-9\"><span class=\"trxml-144\">02\/2011 \u2013 08\/2011<\/span>  \n<\/span><\/span><\/div><span class=\"trxml-83\"><span class=\"trxml-9\">\n\n<\/span><\/span><div style=\"position:absolute;top:541px;left:192px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-27\"><span class=\"trxml-50\"><span class=\"trxml-83\"><span class=\"trxml-9\">BNP PARIBAS S.A.<\/span><\/span><\/span><\/span><\/b><span class=\"trxml-83\"><span class=\"trxml-9\">\n<\/span><\/span><\/div><span class=\"trxml-83\"><span class=\"trxml-9\">\n\n<\/span><\/span><div style=\"position:absolute;top:556px;left:195px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><i><span class=\"trxml-83\"><span class=\"trxml-9\"><span class=\"trxml-17\">Intern, Investment Banking, Sales<\/span> (Exchange Traded Solutions)<\/span><\/span><\/i><\/b><span class=\"trxml-83\"><span class=\"trxml-9\">\n<\/span><\/span><\/div><span class=\"trxml-83\"><span class=\"trxml-9\">\n\n<\/span><\/span><div style=\"position:absolute;top:570px;left:192px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-83\"><span class=\"trxml-9\">\u25cf \n<\/span><\/span><\/div><span class=\"trxml-83\"><span class=\"trxml-9\">\n\n<\/span><\/span><div style=\"position:absolute;top:571px;left:216px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-148\"><span class=\"trxml-83\"><span class=\"trxml-9\">Contributed to the retail derivatives emission process by analysing\n<\/span><\/span><\/span><\/div><span class=\"trxml-148\"><span class=\"trxml-83\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:586px;left:216px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-148\"><span class=\"trxml-83\"><span class=\"trxml-9\">daily turnovers in different product and underlying categories\n<\/span><\/span><\/span><\/div><span class=\"trxml-148\"><span class=\"trxml-83\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:601px;left:192px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-148\"><span class=\"trxml-83\"><span class=\"trxml-9\">\u25cf \n<\/span><\/span><\/span><\/div><span class=\"trxml-148\"><span class=\"trxml-83\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:602px;left:216px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-148\"><span class=\"trxml-83\"><span class=\"trxml-9\">Analysed the market share development of competitors and\n<\/span><\/span><\/span><\/div><span class=\"trxml-148\"><span class=\"trxml-83\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:617px;left:216px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-148\"><span class=\"trxml-83\"><span class=\"trxml-9\">identified trends in the German retail derivatives market\n<\/span><\/span><\/span><\/div><span class=\"trxml-148\"><span class=\"trxml-83\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:632px;left:192px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-148\"><span class=\"trxml-83\"><span class=\"trxml-9\">\u25cf \n<\/span><\/span><\/span><\/div><span class=\"trxml-148\"><span class=\"trxml-83\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:632px;left:216px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-148\"><span class=\"trxml-83\"><span class=\"trxml-9\">Advised customers over the phone and supported the\n<\/span><\/span><\/span><\/div><span class=\"trxml-148\"><span class=\"trxml-83\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:648px;left:216px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-83\"><span class=\"trxml-9\"><span class=\"trxml-148\">communication process between the sales and trading departments<\/span>\n<\/span><\/span><\/div><span class=\"trxml-83\"><span class=\"trxml-9\">\n\n<\/span><\/span><div style=\"position:absolute;top:540px;left:592px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-9\"><span class=\"trxml-27\"><span class=\"trxml-51\"><span class=\"trxml-83\">Frankfurt, GERMANY<\/span><\/span><\/span>\n<\/span><\/div><span class=\"trxml-9\">\n\n<\/span><div style=\"position:absolute;top:664px;left:71px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-84\"><span class=\"trxml-9\"><span class=\"trxml-145\">01\/2010 \u2013 03\/2010<\/span>  \n<\/span><\/span><\/div><span class=\"trxml-84\"><span class=\"trxml-9\">\n\n<\/span><\/span><div style=\"position:absolute;top:665px;left:192px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-28\"><span class=\"trxml-52\"><span class=\"trxml-84\"><span class=\"trxml-9\">SAARLB<\/span><\/span><\/span><\/span><\/b><span class=\"trxml-84\"><span class=\"trxml-9\">\n<\/span><\/span><\/div><span class=\"trxml-84\"><span class=\"trxml-9\">\n\n<\/span><\/span><div style=\"position:absolute;top:680px;left:195px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><i><span class=\"trxml-84\"><span class=\"trxml-9\"><span class=\"trxml-21\">Intern<\/span>, Private Banking Department<\/span><\/span><\/i><\/b><span class=\"trxml-84\"><span class=\"trxml-9\">\n<\/span><\/span><\/div><span class=\"trxml-84\"><span class=\"trxml-9\">\n\n<\/span><\/span><div style=\"position:absolute;top:694px;left:194px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-84\"><span class=\"trxml-9\">\u25cf \n<\/span><\/span><\/div><span class=\"trxml-84\"><span class=\"trxml-9\">\n\n<\/span><\/span><div style=\"position:absolute;top:695px;left:218px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-149\"><span class=\"trxml-84\"><span class=\"trxml-9\">Analysed and optimised clients\u2019 asset structures\n<\/span><\/span><\/span><\/div><span class=\"trxml-149\"><span class=\"trxml-84\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:710px;left:194px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-149\"><span class=\"trxml-84\"><span class=\"trxml-9\">\u25cf \n<\/span><\/span><\/span><\/div><span class=\"trxml-149\"><span class=\"trxml-84\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><div style=\"position:absolute;top:710px;left:218px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-84\"><span class=\"trxml-9\"><span class=\"trxml-149\">Prepared and participated in clients\u2019 consulting interviews<\/span>\n<\/span><\/span><\/div><span class=\"trxml-84\"><span class=\"trxml-9\">\n\n<\/span><\/span><div style=\"position:absolute;top:664px;left:576px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-9\"><span class=\"trxml-28\"><span class=\"trxml-53\"><span class=\"trxml-84\">Saarbr\u00fccken, GERMANY<\/span><\/span><\/span>\n<\/span><\/div><span class=\"trxml-9\">\n\n<\/span><div style=\"position:absolute;top:727px;left:71px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-85\"><span class=\"trxml-9\"><span class=\"trxml-146\">06\/2009 \u2013 08\/2009<\/span>  \n<\/span><\/span><\/div><span class=\"trxml-85\"><span class=\"trxml-9\">\n\n<\/span><\/span><div style=\"position:absolute;top:728px;left:192px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-29\"><span class=\"trxml-85\"><span class=\"trxml-9\"><span class=\"trxml-54\">AAREAL BANK AG<\/span> <span class=\"trxml-55\">DUBLIN BRANCH<\/span><\/span><\/span><\/span><\/b><span class=\"trxml-29\"><span class=\"trxml-55\"><span class=\"trxml-85\"><span class=\"trxml-9\">\n<\/span><\/span><\/span><\/span><\/div><span class=\"trxml-29\"><span class=\"trxml-55\"><span class=\"trxml-85\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><\/span><div style=\"position:absolute;top:743px;left:195px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><i><span class=\"trxml-25\"><span class=\"trxml-29\"><span class=\"trxml-55\"><span class=\"trxml-85\"><span class=\"trxml-9\">Intern, Treasury Department<\/span><\/span><\/span><\/span><\/span><\/i><\/b><span class=\"trxml-29\"><span class=\"trxml-55\"><span class=\"trxml-85\"><span class=\"trxml-9\">\n<\/span><\/span><\/span><\/span><\/div><span class=\"trxml-29\"><span class=\"trxml-55\"><span class=\"trxml-85\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><\/span><div style=\"position:absolute;top:757px;left:194px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-29\"><span class=\"trxml-55\"><span class=\"trxml-85\"><span class=\"trxml-9\">\u25cf \n<\/span><\/span><\/span><\/span><\/div><span class=\"trxml-29\"><span class=\"trxml-55\"><span class=\"trxml-85\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><\/span><div style=\"position:absolute;top:758px;left:218px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-150\"><span class=\"trxml-29\"><span class=\"trxml-55\"><span class=\"trxml-85\"><span class=\"trxml-9\">Confirmed the accuracy of money market transactions\n<\/span><\/span><\/span><\/span><\/span><\/div><span class=\"trxml-150\"><span class=\"trxml-29\"><span class=\"trxml-55\"><span class=\"trxml-85\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><\/span><\/span><div style=\"position:absolute;top:772px;left:194px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-150\"><span class=\"trxml-29\"><span class=\"trxml-55\"><span class=\"trxml-85\"><span class=\"trxml-9\">\u25cf \n<\/span><\/span><\/span><\/span><\/span><\/div><span class=\"trxml-150\"><span class=\"trxml-29\"><span class=\"trxml-55\"><span class=\"trxml-85\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><\/span><\/span><div style=\"position:absolute;top:773px;left:218px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-29\"><span class=\"trxml-55\"><span class=\"trxml-85\"><span class=\"trxml-9\"><span class=\"trxml-150\">Supported the settlement department<\/span>\n<\/span><\/span><\/span><\/span><\/div><span class=\"trxml-29\"><span class=\"trxml-55\"><span class=\"trxml-85\"><span class=\"trxml-9\">\n\n<\/span><\/span><\/span><\/span><div style=\"position:absolute;top:727px;left:614px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-29\"><span class=\"trxml-55\"><span class=\"trxml-85\"><span class=\"trxml-9\">Dublin, IRELAND<\/span><\/span><\/span><\/span><\/div>\n\n\n<div style=\"position:absolute;top:790px;left:71px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-6\">Language, Computer Skills and Further Education<\/span><\/b><span class=\"trxml-6\">\n<\/span><\/div><span class=\"trxml-6\">\n\n<\/span><div style=\"position:absolute;top:899px;left:71px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-6\">12\/2008\n<\/span><\/div><span class=\"trxml-6\">\n\n<\/span><div style=\"position:absolute;top:914px;left:71px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-6\">04\/2009\n<\/span><\/div><span class=\"trxml-6\">\n\n<\/span><div style=\"position:absolute;top:808px;left:192px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-6\">Languages<\/span><\/b><span class=\"trxml-6\">\n<\/span><\/div><span class=\"trxml-6\">\n\n<\/span><div style=\"position:absolute;top:822px;left:194px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-6\">\u25cf \n<\/span><\/div><span class=\"trxml-6\">\n\n<\/span><div style=\"position:absolute;top:822px;left:218px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-6\"><span class=\"trxml-242\"><span class=\"trxml-92\">German<\/span> (<span class=\"trxml-97\">native<\/span><\/span>), <span class=\"trxml-243\"><span class=\"trxml-93\">English<\/span> (<span class=\"trxml-98\">fluent<\/span><\/span>), <span class=\"trxml-244\"><span class=\"trxml-94\">French<\/span> (<span class=\"trxml-99\">basic<\/span><\/span>)\n<\/span><\/div><span class=\"trxml-6\">\n\n<\/span><div style=\"position:absolute;top:838px;left:192px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-6\">Computer Skills<\/span><\/b><span class=\"trxml-6\">\n<\/span><\/div><span class=\"trxml-6\">\n\n<\/span><div style=\"position:absolute;top:852px;left:194px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-6\">\u25cf \n<\/span><\/div><span class=\"trxml-6\">\n\n<\/span><div style=\"position:absolute;top:853px;left:218px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-6\">MS <span class=\"trxml-112\">Office<\/span> (<span class=\"trxml-234\">very good<\/span>)\n<\/span><\/div><span class=\"trxml-6\">\n\n<\/span><div style=\"position:absolute;top:867px;left:194px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-6\">\u25cf \n<\/span><\/div><span class=\"trxml-6\">\n\n<\/span><div style=\"position:absolute;top:868px;left:218px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-6\"><span class=\"trxml-113\">Bloomberg<\/span>, <span class=\"trxml-114\">Reuters<\/span> (<span class=\"trxml-235\">basic<\/span>)\n<\/span><\/div><span class=\"trxml-6\">\n\n<\/span><div style=\"position:absolute;top:884px;left:194px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-6\">Certificates of the \u201cDeutsche B\u00f6rse Group\u201d<\/span><\/b><span class=\"trxml-6\">\n<\/span><\/div><span class=\"trxml-6\">\n\n<\/span><div style=\"position:absolute;top:898px;left:194px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-6\">\u25cf \n<\/span><\/div><span class=\"trxml-6\">\n\n<\/span><div style=\"position:absolute;top:899px;left:218px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-6\">Exchange Products and Clearing and Settlement\n<\/span><\/div><span class=\"trxml-6\">\n\n<\/span><div style=\"position:absolute;top:914px;left:194px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-6\">\u25cf \n<\/span><\/div><span class=\"trxml-6\">\n\n<\/span><div style=\"position:absolute;top:914px;left:218px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-6\">Eurex Clearer Test (clearing and settlement of Eurex derivatives)\n<\/span><\/div><span class=\"trxml-6\">\n\n<\/span><div style=\"position:absolute;top:883px;left:592px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-6\">Frankfurt, GERMANY<\/span>\n<\/div>\n\n<div style=\"position:absolute;top:931px;left:71px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-7\">Extra-Curricular Activities and Interests<\/span><\/b><span class=\"trxml-7\">\n<\/span><\/div><span class=\"trxml-7\">\n\n<\/span><div style=\"position:absolute;top:947px;left:71px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-7\">11\/2011 \u2013 present\n<\/span><\/div><span class=\"trxml-7\">\n\n<\/span><div style=\"position:absolute;top:978px;left:71px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-7\">04\/2006 \u2013 08\/2006\n<\/span><\/div><span class=\"trxml-7\">\n\n<\/span><div style=\"position:absolute;top:948px;left:192px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-7\">Vice chairman of the youth organisation of a political party in the<\/span><\/b><span class=\"trxml-7\">\n<\/span><\/div><span class=\"trxml-7\">\n\n<\/span><div style=\"position:absolute;top:963px;left:192px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-7\">administrative district of Kusel<\/span><\/b><span class=\"trxml-7\">\n<\/span><\/div><span class=\"trxml-7\">\n\n<\/span><div style=\"position:absolute;top:979px;left:192px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-7\">International Kung Fu Training Centre<\/span><\/b><span class=\"trxml-7\">\n<\/span><\/div><span class=\"trxml-7\">\n\n<\/span><div style=\"position:absolute;top:993px;left:194px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-7\">\u25cf \n<\/span><\/div><span class=\"trxml-7\">\n\n<\/span><div style=\"position:absolute;top:994px;left:218px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-7\">Trained Shaolin Kung Fu and studied Chinese culture\n<\/span><\/div><span class=\"trxml-7\">\n\n<\/span><div style=\"position:absolute;top:1008px;left:194px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-7\">\u25cf \n<\/span><\/div><span class=\"trxml-7\">\n\n<\/span><div style=\"position:absolute;top:1009px;left:218px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-7\">Team leader of the foreign students team\n<\/span><\/div><span class=\"trxml-7\">\n\n<\/span><div style=\"position:absolute;top:947px;left:611px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-7\">Kusel, GERMANY\n<\/span><\/div><span class=\"trxml-7\">\n\n<\/span><div style=\"position:absolute;top:978px;left:607px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-7\">Zhengzhou, CHINA<\/span><\/div><span class=\"trxml-7\">\n\n\n<\/span><div style=\"position:absolute;top:1025px;left:192px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><b><span class=\"trxml-7\">Sports<\/span><\/b><span class=\"trxml-7\">\n<\/span><\/div><span class=\"trxml-7\">\n\n<\/span><div style=\"position:absolute;top:1040px;left:194px;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-7\">\u25cf \n<\/span><\/div><span class=\"trxml-7\">\n\n<\/span><div style=\"position:absolute;top:1040px;left:218px;font-family:&apos;Times New Roman&apos;;font-size:10pt;white-space:nowrap;\"><span class=\"trxml-7\"><span class=\"trxml-117\">Tennis<\/span> (playing and coaching), <span class=\"trxml-118\">Martial Arts<\/span>, <span class=\"trxml-119\">Fitness<\/span><\/span> <\/div>\n\n <\/div><\/div>\n",
+  "Performance": {
+    "PreProcessingTime": "0.316",
+    "ProcessingTime": "2.141",
+    "NormalizationTime": "0.565",
+    "TemplatingTime": "0.228",
+    "TotalTime": "3.25"
+  }
+}
